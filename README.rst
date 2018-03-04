@@ -6,15 +6,15 @@ A Tornado IOLoop based on pyuv
    :target: https://travis-ci.org/saghul/tornaduv
    :alt: Build status
 
-.. image:: https://pypip.in/download/tornaduv/badge.png
+.. image:: https://img.shields.io/pypi/dm/tornaduv.svg
     :target: https://pypi.python.org/pypi/tornaduv/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/tornaduv/badge.png
+.. image:: https://img.shields.io/pypi/v/tornaduv.svg
     :target: https://pypi.python.org/pypi/tornaduv/
     :alt: Latest Version
 
-.. image:: https://pypip.in/license/tornaduv/badge.png
+.. image:: https://img.shields.io/pypi/l/tornaduv.svg
     :target: https://pypi.python.org/pypi/tornaduv/
     :alt: License
 
